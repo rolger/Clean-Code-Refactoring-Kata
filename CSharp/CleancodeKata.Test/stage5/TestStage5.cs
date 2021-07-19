@@ -1,7 +1,7 @@
 ﻿using CleancodeKata.stage5;
 using Xunit;
 
-namespace SpeedrunKata.Tests.stage5
+namespace CleancodeKata.Test.stage5
 {
     public class TestStage5
     {
